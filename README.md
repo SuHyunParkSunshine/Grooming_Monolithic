@@ -1,2 +1,2 @@
 # Grooming_Monolithic
-monolithic 이용 버전
+Grooming project monolithic 이용 버전
